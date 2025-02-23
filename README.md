@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🧬 I'm currently working on learning bioinformatics and genomic data science
+- 🌱 I’m currently learning Python, R, and SQL
 <!--
 **mpitt682/mpitt682** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
